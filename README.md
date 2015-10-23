@@ -6,4 +6,5 @@
 ## Para hallar el Coeficiente de Correlación de Pearson (por ej):
 Una vez que ya he importado la bbdd, selecciono dos columnas dentro del fichero que se llama "workfile". Pulso boton derecho y "abrir como grupo". Despues en View, puedo encontrar las diferentes alternativas que busco, como por ejemplo, "Covariance Analysis", alli dentro, selecciono "correlation" y "prob/t/..." para ver si dicho contraste rechaza la hipotesis nula o no. (Segun el pvalor, y el nivel de confianza que deseemos abarcar)
 
-
+## Para calcular regresiones: 
+Abrimos las variables que queramos en grupo. Proc->Make equation. Para solucionar el problema de heterocedasticidad, debemos seleccionar en la pestaña siguiente "white". Para asi poder obtener la regresion sin este problema.
