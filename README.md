@@ -10,6 +10,6 @@ Una vez que ya he importado la bbdd, selecciono dos columnas dentro del fichero 
 Abrimos las variables que queramos en grupo. Proc->Make equation. Para solucionar el problema de heterocedasticidad, debemos seleccionar en la pestaña siguiente "white". Para asi poder obtener la regresion sin este problema.
 
 ## Series temporales:
-###Test de raices unitarias: view, Unit Root test 
+######Test de raices unitarias: view, Unit Root test 
 ####ARMA/ARIMA: View -> Correlograma. 
 #####Correlograma de residuos: View -> Residual test
