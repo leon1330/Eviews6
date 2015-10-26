@@ -11,5 +11,5 @@ Abrimos las variables que queramos en grupo. Proc->Make equation. Para soluciona
 
 ## Series temporales:
 ###Test de raices unitarias: view, Unit Root test 
-ARMA/ARIMA: View -> Correlograma. 
-Correlograma de residuos: View -> Residual test
+####ARMA/ARIMA: View -> Correlograma. 
+#####Correlograma de residuos: View -> Residual test
